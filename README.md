@@ -29,6 +29,7 @@ Here are the main tools and libraries we’ll be working with:
 - PyTorch
 - torchvision
 - matplotlib
+- PIL (Python Imaging Library)
 
 ---
 
