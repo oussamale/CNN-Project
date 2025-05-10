@@ -51,7 +51,7 @@ Here are the main tools and libraries we’ll be working with:
 3. **Launch the notebook:**
 
    ```bash
-   jupyter notebook "Fashion-MNIST Project.ipynb"
+   jupyter notebook "CNN Project.ipynb"
    ```
 
 ---
